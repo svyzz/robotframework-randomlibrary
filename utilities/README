@@ -1,0 +1,9 @@
+This folder contains an assortment of utilties that help drive RobotFramework effectively. Note that I've written and/or compiled them all whilst working/experimenting on RobotFramework and is still a work in progress. Detail around each of the files inside of this directory can be found below. If you require additional information, READ THE SOURCE LUKE!
+
+------------------------------------------------
+
+** jenkins.sh : This file contains details around integrating your RobotFramework tests that (hopefully) run on a custom Python virtual environment. It removes any old, existing instances of the virtual environment, creates a new one, installs ALL of the required Python packages, exports an environment variable that specifies the DEFAULT display and executes all tests using PyBot.
+
+NOTE that this script (executed as a Shell command on Jenkins as part of the Build step), assumes that you've used XvfB (the X Virtual Frame Buffer) to run the browser of your choice in headless mode (There's a Jenkins plug-in to do this in a neat fashion - https://wiki.jenkins-ci.org/display/JENKINS/Xvfb+Plugin).
+
+------------------------------------------------
