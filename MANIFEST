@@ -5,5 +5,4 @@ setup.py
 docs/testcases.txt
 src/__init__.py
 src/keywords.py
-src/version.py
 src/test/__init__.py
