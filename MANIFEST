@@ -3,7 +3,7 @@ CHANGES.txt
 README.txt
 setup.py
 docs/testcases.txt
-robotframework-random/__init__.py
-robotframework-random/keywords.py
-robotframework-random/version.py
-robotframework-random/test/__init__.py
+src/__init__.py
+src/keywords.py
+src/version.py
+src/test/__init__.py
