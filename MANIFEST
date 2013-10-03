@@ -6,3 +6,4 @@ docs/testcases.txt
 robotframework-random/__init__.py
 robotframework-random/keywords.py
 robotframework-random/version.py
+robotframework-random/test/__init__.py
