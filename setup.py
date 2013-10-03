@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name='RobotFramework-Random',
-    version='0.1.1',
+    version='0.1.2',
     author='Arun Venkatram',
     author_email='stuxnetting@gmail.com',
     packages=['src', 'src.test'],
