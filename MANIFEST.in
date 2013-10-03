@@ -1,2 +1,2 @@
-include *.txt
-recursive-include docs *.txt
+include README.txt LICENSE
+recursive-include utilities *.sh
