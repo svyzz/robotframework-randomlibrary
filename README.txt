@@ -6,7 +6,7 @@ This repository details a collection of **random utilities that can be used with
 
 Installation and Usage
 ======================
-**pip install rf-random** should do the trick!
+**pip install robotframework-randomlibrary** should do the trick!
 
 Contributors
 ============
