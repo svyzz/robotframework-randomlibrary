@@ -7,7 +7,7 @@ setup(
     author_email='stuxnetting@gmail.com',
     package_dir={'' : 'src'},
     packages=['RandomLibrary'],
-    url='https://github.com/svyzz/robotframework-random',
+    url='https://github.com/svyzz/robotframework-randomlibrary',
     license='Apache 2.0, see LICENSE.txt',
     keywords='robotframework automation arun',
     platforms='any',
