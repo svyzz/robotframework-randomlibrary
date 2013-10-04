@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='robotframework-randomlibrary',
-    version='0.0.1',
+    version='0.0.2',
     author=u'Arun Venkatram',
     author_email='stuxnetting@gmail.com',
     package_dir={'' : 'src'},
