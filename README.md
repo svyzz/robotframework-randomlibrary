@@ -1,7 +1,8 @@
 RobotFramework-Random
 =====================
-This repository details a collection of **random utilities that can be used within tests written using RobotFramework**. 
-As of this moment, there is no detailed documentation yet on the modules and keywords available, but the expectation is to fix this over time.
+This repository details a collection of **random utilities that can be used within tests written using RobotFramework** that aren't found in the default libraries. We wrote a bunch of custom keywords to fit the needs of our project and realized later on that this would be incredibly useful to others too.
+
+This, however, is a work in progress. We intend to create pull requests and push specific keywords from this library to any other applicable library when the need arises.
 
 Installation and Usage
 ======================
