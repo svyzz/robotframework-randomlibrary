@@ -6,6 +6,7 @@ As of this moment, there is no detailed documentation yet on the modules and key
 Installation and Usage
 ======================
 **pip install robotframework-randomlibrary** should do the trick!
+For individual keyword documentation, please see http://svyzz.github.io/robotframework-random
 
 Contributors
 ============
