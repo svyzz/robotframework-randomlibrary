@@ -6,9 +6,11 @@ This, however, is a work in progress. We intend to create pull requests and push
 
 Installation and Usage
 ======================
-```pip install robotframework-randomlibrary```
+Use the following command to install the latest released version:
 
-For individual keyword documentation, please see http://svyzz.github.io/robotframework-random
+    pip install robotframework-randomlibrary
+
+For individual keyword documentation (and examples), please see http://svyzz.github.io/robotframework-random
 
 Contributors
 ============
